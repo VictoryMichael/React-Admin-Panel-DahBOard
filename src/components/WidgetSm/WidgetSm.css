@@ -1,0 +1,107 @@
+.small-widget{
+flex: 1;
+-webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+padding: 20px;
+margin-right: 20px;
+
+
+}
+
+
+.widgetsm-title{
+font-size: 31px;
+font-weight: 400;
+
+}
+
+.widgetsm-img{
+width: 60px;
+height: 60px;
+border-radius: 50%;
+object-fit: cover;
+}
+
+
+.widgetsm-list{
+margin: 0;
+
+list-style: none;
+
+padding: 0;
+}
+
+
+.widgetsmall-listitem{
+display: flex;
+align-items: center;
+justify-content: space-around;
+margin: 30px 0px;
+}
+
+.widgetsm-users{
+display: flex;
+flex-direction: column;
+
+}
+
+
+ span,  .widgetsm-username{
+font-weight: 600;
+
+}
+
+.widgetsm-usertitle{
+font-weight: 100;
+
+}
+
+.widgetsm-button{
+display: flex;
+align-items: center;
+padding: 5px 5px;
+font-size: 15px;
+border: none;
+background-color: rgb(138, 128, 111);
+color: rgb(223, 218, 210);
+}
+
+.widgetsm-button:hover {
+    border:1px solid #070707;
+    border-radius: 2px;
+cursor: pointer;
+
+
+        }
+
+
+.btn-icon{
+margin-right: 5px;
+color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,69 @@
+.newuser{
+flex: 4;
+
+}
+
+
+
+  
+  .newuser-form {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .newuser-item {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-right: 20px;
+  }
+  
+  .newuser-item > label {
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(151, 150, 150);
+  }
+  
+  .newuser-item > input {
+    height: 20px;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+  }
+  
+  .newUserGender > input {
+    margin-top: 15px;
+  }
+  
+  .newUserGender>label{
+      margin: 10px;
+      font-size: 18px;
+      color: #555;
+  }
+  
+  .newUserSelect{
+      height: 40px;
+      border-radius: 5px;
+  }
+  
+  .newuser-itemButton{
+      width: 200px;
+      border: none;
+      background-color: teal;
+      color: white;
+      padding: 7px 7px;
+      font-weight: 600;
+      border-radius: 10px;
+      margin-top: 50px;
+      cursor: pointer;
+margin-left:300PX ;
+  }
+
+  .newuser-itemButton:hover{
+background-color: rgb(123, 141, 141);
+
+  }
+
+

@@ -1,0 +1,196 @@
+.user{
+flex: 4;
+
+
+}
+
+
+.usertitle-container{
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+
+.useradd-btn{
+width: 80px;
+border: none;
+padding: 5px;
+background-color: teal;
+border-radius: 5px;
+cursor: pointer;
+color: white;
+font-size: 16px;
+}
+
+.useradd-btn:hover{
+background-color: rgb(101, 138, 138);
+
+}
+
+.user-container{
+display: flex;
+margin-top: 20px;
+}
+.usershow{
+flex: 1;
+padding: 20px;
+-webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+
+}
+
+.userupdate{
+
+    flex: 2 ;
+    padding: 20px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+
+}
+
+
+
+.usershow-top{
+display: flex;
+align-items: center;
+
+}
+
+.usershow-img{
+width: 40px;
+height: 40px;
+border-radius: 50%;
+object-fit: cover;
+
+}
+
+.usershowtop-title{
+display: flex;
+flex-direction: column;
+margin-left: 20px;
+}
+
+.usershow-username{
+font-weight: 600;
+
+}
+
+.usershow-title{
+font-weight: 300;
+
+}
+
+.usershow-bottom{
+margin-top: 20px;
+
+
+}
+
+.usershow-title1{
+font-size: 18px;
+font-weight: 300;
+color: rgb(27, 163, 236);
+}
+
+.usershow-info{
+display: flex;
+
+align-items: center;
+margin: 20px 0px;
+color: #444;
+}
+
+.usershow-icon{
+font-size: 16px;
+
+}
+
+.usershow-infotitle{
+    margin-left: 10px;
+}
+
+
+
+.userupdate-img{
+width: 200px;
+height: 200px;
+border-radius: 10px;
+object-fit: cover;
+margin-right: 20px;
+cursor: pointer;
+}
+
+.userupdate-form{
+display: flex;
+justify-content: space-between;
+margin-top: 20px;
+}
+
+.userupdate-title{
+font-size: 20px;
+font-weight: 600;
+
+}
+
+
+.userupdate-item{
+display: flex;
+flex-direction: column;
+margin-top: 12px;
+}
+
+
+.userupdate-item,label{
+margin-bottom: 5px;
+font-size: 15px;
+}
+
+.selectfile-btn{
+    font-size: 20px;
+}
+
+.selectfile-btn:hover{
+cursor: pointer;
+color: blue;
+
+}
+
+.update-btn{
+cursor: pointer;
+border: none;
+background: teal;
+border-radius: 3px;
+border-bottom: px;
+color: white;
+position: relative;
+left: 420px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
